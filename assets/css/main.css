@@ -1,0 +1,35 @@
+body{
+    background-color: #F5F9F9;
+}
+
+.login{
+    width:100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.buttonColor{
+	background: #e02d29 !important;
+}
+.buttonColor:hover{
+	background: #e11e1c !important;
+}
+
+.postButton{
+	color: #e02d29 !important
+}
+.postButton:hover{
+	color: #fff !important;
+	background: #e11e1c !important
+}
+
+.textColor{
+	color: #e02d29 !important;
+}
+
+.textColorWhite{
+    color: #fff !important;
+}
